@@ -1,2 +1,1 @@
-# Pandas
-Pandas practice
+# Pandas practice
